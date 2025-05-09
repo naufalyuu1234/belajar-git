@@ -83,6 +83,7 @@ nav {
   padding: 0.5rem 0;
   transition: all 0.3s ease;
   position: relative;
+  font-size: 1rem;
 }
 
 /* Underline hover effect */
